@@ -1,6 +1,6 @@
 <p align="center">
-<!-- <img src="data/favicon.png" width="30px" alt="Icon" title="Icon"> -->
-<h1 align="center">FluidServer</h1>
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/FluidServer/server/refs/heads/trunk/data/favicon.png" width="30px" alt="Icon" title="Icon">FluidServer</h1>
 
 </p>
 
